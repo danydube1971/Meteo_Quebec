@@ -1,0 +1,7 @@
+Pour créer un fichier binaire de Meteo_Quebec :
+
+pyinstaller --onefile --hidden-import=PIL._tkinter_finder --hidden-import=babel.numbers --add-data "nuageux.jpg:." --add-data "pluie.jpg:." --add-data "neige.jpg:." --add-data "soleil.jpg:." --add-data "default.jpg:." --add-data "couvert.jpg:." --add-data "legere_pluie.jpg:." Meteo_Quebec_GUI.py
+
+
+
+
