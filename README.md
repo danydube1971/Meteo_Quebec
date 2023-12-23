@@ -1,7 +1,9 @@
-Ce script en Python est une application graphique de bureau pour afficher les prévisions météorologiques (5 jours max) pour la ville de Québec. Voici une explication détaillée de ses composants et de son fonctionnement :
+Ce script en Python est une application graphique de bureau pour afficher les prévisions météorologiques (5 jours max) pour la ville de Québec. 
 
 ![Meteo_Quebec_capture](https://github.com/danydube1971/Meteo_Quebec/assets/74633244/8d1e1ec0-ac4d-4ecc-a201-8f7908cc3ea1)
 
+--------------------
+Voici une explication détaillée de ses composants et de son fonctionnement :
 
 1. **Importation des modules nécessaires** :
    - `requests` pour effectuer des requêtes HTTP.
